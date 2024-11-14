@@ -6,7 +6,7 @@
 >
 > - Clonar el repositorio
 > - En VSCode, tener instalada la ectensión live server.
-> -Dar click en  ``Go Live ``
+> - Dar click en  ``Go Live ``
 >
 >  Con estos pasos puedes ver localmente el proyecto.
 
@@ -15,3 +15,4 @@
 -Salma Annette Rodríguez Muñoz
 
 -MIT
+
